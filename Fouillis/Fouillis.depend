@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558549932 source:c:\users\mbi\desktop\fouillis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558553437 source:d:\fouillis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
